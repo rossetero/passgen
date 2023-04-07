@@ -1,3 +1,6 @@
 sqlite3.c
 sqlite3.h
 build
+SQLiteFace.h
+*.db
+argh.h
